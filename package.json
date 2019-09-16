@@ -1,0 +1,22 @@
+{
+  "name": "freeupload",
+  "version": "1.0.9",
+  "description": "It's a  way of  uploading image or file without charge to google-cloud/storage through firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nuruzzamancse/freeupload.git"
+  },
+  "author": "Nuruzzaman Khan Nabwab <mr.nuruzzamancse@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nuruzzamancse/freeupload/issues"
+  },
+  "homepage": "https://github.com/Nuruzzamancse/freeupload#readme",
+  "dependencies": {
+    "@google-cloud/storage": "^3.2.1"
+  }
+}
