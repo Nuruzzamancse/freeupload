@@ -1,0 +1,23 @@
+{
+  "name": "free-image-upload",
+  "version": "1.0.0",
+  "description": "This is a small project for free image upload to firebase",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "free",
+    "image",
+    "upload"
+  ],
+  "author": "Nuruzzaman Khan",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/storage": "^3.0.2",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "freeupload": "^1.0.0",
+    "multer": "^1.4.2"
+  }
+}
